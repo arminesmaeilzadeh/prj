@@ -1,0 +1,6 @@
+.btn{
+  backdrop-filter: blur(5px) saturate(160%);
+background-color: rgba(224,224,224,0.28);
+border: 5px solid rgba(224,224,224,0.61);
+border-radius: 17px;
+}

@@ -1,0 +1,9 @@
+/* Ensure Tailwind CSS is installed and configured correctly */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'vazirmatn';
+  src: url('../prj/font/vazirmatn.ttf');
+}
